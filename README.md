@@ -1,6 +1,7 @@
-# Thread_django
+# Thread django
 This repo is example of thread
-*** Simple Thread Example ***
+
+***Simple Thread Example***
 
 >pip install -r requirements.txt
 
